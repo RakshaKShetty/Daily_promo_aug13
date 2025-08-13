@@ -28,6 +28,14 @@
     {
       "id": "all",
       "isDefault": false
+    },
+    {
+      "id": "Credit Card Links",
+      "isDefault": false
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
